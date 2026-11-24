@@ -1,11 +1,11 @@
 body {
   font-family: "League Spartan", sans-serif;
-  background-color: #000000;
-  color: #ffaaff;
+  background-color: black;
+  color: white;
 }
 
 .bb {
-  background-color: #9c00ff;
-  color: #ff5700;
+  background-color: purple;
+  color: orange;
   font-family: "League Spartan", sans-serif;
 }
