@@ -1,3 +1,9 @@
 body {
-  background-color: #9c00ff
+  background-color: #000000
+}
+
+bb {
+  background-color: #9c00ff;
+  text-color: #ff5700;
+  font-family: "League Spartan", sans-serif;
 }
